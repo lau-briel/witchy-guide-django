@@ -1,2 +1,2 @@
-# witchy-guide-backend-django
+# witchy-guide-django
 Backend del proyecto witchy-guide
