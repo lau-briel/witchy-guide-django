@@ -1,2 +1,2 @@
-# lugares-seguros-backend-django
+# witchy-guide-django
 Backend del proyecto witchy-guide
